@@ -1,17 +1,18 @@
-# Virtual mühit
+
 .venv/
 venv/
 ENV/
+__pycache__/
 
-# IDE faylları
+
 .idea/
 .vscode/
 
-# Arxiv və icra oluna bilən fayllar
+
 *.zip
 *.exe
 chrome-win64/
 
-# Məlumat və şifrələr
+
 .env
 *.csv
