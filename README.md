@@ -7,7 +7,7 @@ and stores it in a structured format.
 Tech stack:
 - Python
 - Requests / Selenium
-- Pandas
+- Excel
 - SQLite
 
 Status:
